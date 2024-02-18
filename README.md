@@ -1,4 +1,3 @@
-## About Me:
 ### Hello 🖐🏻, I'm Ethem. I am a mobile application developer and graphic designer. I mainly focus on mobile application development with React Native and Swift. I also develop applications on the front-end side with Javascript and its frameworks.
 
 
